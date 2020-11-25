@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "resource1",
-      "path": "datapackage.json",
+      "path": "data.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -44,8 +44,9 @@
           },
           {
             "name": "remuner",
-            "type": "integer",
-            "format": "default"
+            "type": "number",
+            "format": "default",
+            "decimalChar": ","
           },
           {
             "name": "data",
