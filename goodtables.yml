@@ -1,0 +1,5 @@
+  
+settings:
+  skip_checks:
+    - duplicate-row
+  row_limit: -1
