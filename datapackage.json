@@ -24,7 +24,7 @@
       "schema": "schema.json",
       "title": "Remuneração de Julho de 2012",
       "mediatype": "text/csv",
-      "encoding": "utf-8",
+      "encoding": "utf-8-sig",
       "description": "Contém dados dos componentes da remuneração mensal dos servidores do poder Executivo do Estado de Minas Gerais",
       "missingValues": [
         "NA",
